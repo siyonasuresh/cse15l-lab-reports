@@ -1,9 +1,0 @@
-# Week 1 Lab Report 
-
-In this lab report, I will be going through how to access a remote server from your computer. To preface, I reset my password for the cs15 specific account several times, but was never able to successfully ssh using it. For this lab, I used my active directory login instead to complete the tasks. 
-
-The first step is to install VS Code on your laptop. I already had this downloaded from previous classes, however I can describe the steps needed to have VS Code operating on your computer. 
-- go to the url [VS Code Link](https://code.visualstudio.com/)
-- download the appropriate version for you depending on your OS
-- once VS Code is installed and running, it should look something like this 
-- ![](VSCode.png)
