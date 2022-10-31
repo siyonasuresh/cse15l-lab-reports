@@ -1,4 +1,4 @@
-## Week 2 Lab Report 
+## Lab Report 3
 
 In this lab, I will be investigating the find command and it's command line options. 
 
